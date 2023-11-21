@@ -1,3 +1,5 @@
 1 mkdir examen
 2 cd examen
 3 cat Alumnos.txt | grep -n "SI" > si.txt
+4 mkdir si
+5 mv si.txt si
