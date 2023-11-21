@@ -8,3 +8,4 @@
 8 sed 's/Vicent/Pepe/' Alumnos.txt
 9  cat Alumnos.txt | grep -v "2010" | grep -v "2020"
 10 no lo se 
+11 du -hs du.txt > grep -b
