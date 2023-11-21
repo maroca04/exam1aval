@@ -6,3 +6,4 @@
 6 no lo se 
 7 no lo se 
 8 sed 's/Vicent/Pepe/' Alumnos.txt
+9  cat Alumnos.txt | grep -v "2010" | grep -v "2020"
